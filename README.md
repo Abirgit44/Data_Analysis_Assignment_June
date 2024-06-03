@@ -1,6 +1,10 @@
 # 📊 Data Analysis Project
 
-Welcome to my data analysis project repository! In this project, I've tackled several questions using various tools and techniques. Let's dive into the details:
+Hello, I am Abir Maiti from Kharagpur, India. Welcome to my data analysis project repository! In this project, I've tackled several questions using various tools and techniques. Let's dive into the details:
+
+## About This Project
+
+This repository showcases my work as a fresher Data Analyst from India. I've applied my skills in EDA, machine learning, data visualization, and data transformation to solve real-world data analysis challenges.
 
 ## Questions Solved
 
